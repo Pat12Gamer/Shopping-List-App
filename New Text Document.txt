@@ -1,0 +1,25 @@
+                                   Python Project (Paired)
+
+PROBLE STATEMENT - HARD COPY OF SHOPPING LIST IS NOT RELIABLE AS IT MAY GET REPLACED OR
+		   IS NOT UNDERSTANBLE
+
+THING WE DO CARRY- PHONES 😏
+
+SOLUTION - TO MAKE A LIST PROGRAM
+
+
+                             APPLICATION USED- PYHTHON 3.9
+
+_______________________________________________________________________________________
+|                                ### SHOPPING LIST ###				      |
+|										      |
+| Select a number for the action that you would like to do:                           |
+|										      |
+|	1. View shopping list							      |
+|	2. Add item to shopping list						      |
+| 	3. Remove item from shopping list					      |
+|	4. Check if item is on shopping list					      |
+|	5. How many items on shopping list					      |
+|	6. Clear Shopping list							      |
+|	7. Exit                                                                       |
+|_____________________________________________________________________________________|
